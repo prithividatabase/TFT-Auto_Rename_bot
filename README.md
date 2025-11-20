@@ -1,5 +1,5 @@
 <h2 align="Center"><b><i>File-Auto-Renamer-Bot</i></b></h2>
-<center><img width ="500" src="https://files.catbox.moe/ufzpkn.jpg" ></center>
+<center><img  src="https://files.catbox.moe/ufzpkn.jpg" ></center>
 <p align="center">
   <a href="https://www.python.org">
     <img width="250" height="200" src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
