@@ -33,7 +33,7 @@ class Config(object):
     START_PIC   = os.environ.get("START_PIC", "https://files.catbox.moe/ufzpkn.jpg")
     
     FORCE_SUB_CHANNELS = os.environ.get('FORCE_SUB_CHANNELS', "tech_freak_tamil").split(',')
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "" ))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "1003477281206" ))
     DUMB_CHANNEL = os.environ.get("DUMB_CHANNEL", "")
     
     # wes response configuration     
